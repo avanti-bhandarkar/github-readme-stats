@@ -52,7 +52,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `calm` ![calm][calm_repo] | `flag-india` ![flag-india][flag-india_repo] | `omni` ![omni][omni_repo] |
 | `react` ![react][react_repo] | `jolly` ![jolly][jolly_repo] | `maroongold` ![maroongold][maroongold_repo] |
 | `yeblu` ![yeblu][yeblu_repo] | `blueberry` ![blueberry][blueberry_repo] | `slateorange` ![slateorange][slateorange_repo] |
-| `kacho_ga` ![kacho_ga][kacho_ga_repo] |  | [Add your theme][add-theme] |
+| `kacho_ga` ![kacho_ga][kacho_ga_repo] | `nord` ![nord][nord_repo]| | [Add your theme][add-theme] |
 
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
